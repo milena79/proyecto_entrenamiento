@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #d90ad9; 
+    color: white; 
+}
+.subheader {
+    font-size: 20px;
+}
+
+/* Estilos del Menú de Navegación */
+.navbar {
+    background-color: gray; 
+}
+.navbar .nav-link {
+    color: black; 
+}
+
+.navbar .nav-link:hover {
+    color: #0056b3; 
+
+}
+
+.navbar-custom {
+    background-color: #6f60e2; /* Color gris oscuro */
+}
+
+/* Estilos de las Tarjetas */
+.card {
+    border: solid 5px #4b5158; 
+}
+
+.card .btn {
+    background-color:#d90ad9; 
+    color: white;
+}
+
+.card .btn:hover {
+    background-color: #6f60e2; 
+}
+.btn-primary {
+    background-color:#d90ad9;
+    border-color: darkgray; 
+    color: white; 
+}
+
+.btn-primary:hover {
+    background-color: gray; 
+}
+
+/* Estilos del Pie de Página */
+footer {
+    background-color: #D3D3D3; 
+    color: black; 
+}
